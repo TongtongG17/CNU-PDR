@@ -1,0 +1,2 @@
+rootProject.name = "yawHeading"
+include ':app'
