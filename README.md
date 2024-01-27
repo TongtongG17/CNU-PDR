@@ -1,5 +1,7 @@
 # 스마트폰 기반 위치 인지 시스템
 
+![image](https://github.com/TongtongG17/CNU-PDR/assets/145681939/aa8f8aef-42bf-4147-9fab-e3a2cc4e037c)
+
 ## 사용된 기술
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/java-04738F?style=flat-square&logo=java&logoColor=white"/>
 
